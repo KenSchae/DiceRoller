@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiceRoller", "DiceRoller\DiceRoller.csproj", "{663A2541-37D2-4AEB-9A91-E7CEC107B8E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceRoller", "DiceRoller\DiceRoller.csproj", "{997BC2BF-3B94-4D10-9CF5-71DBE3637D28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{663A2541-37D2-4AEB-9A91-E7CEC107B8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{663A2541-37D2-4AEB-9A91-E7CEC107B8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{663A2541-37D2-4AEB-9A91-E7CEC107B8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{663A2541-37D2-4AEB-9A91-E7CEC107B8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{997BC2BF-3B94-4D10-9CF5-71DBE3637D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997BC2BF-3B94-4D10-9CF5-71DBE3637D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997BC2BF-3B94-4D10-9CF5-71DBE3637D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997BC2BF-3B94-4D10-9CF5-71DBE3637D28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {2C28166D-6CDF-414D-A97D-2B8ADE73E7BD}
+		SolutionGuid = {7693AEAC-22A6-4473-A872-3812AFDB5F52}
 	EndGlobalSection
 EndGlobal
